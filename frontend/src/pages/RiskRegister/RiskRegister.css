@@ -1,0 +1,1 @@
+.risks-page .form-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.risks-page .form-grid button{align-self:end}@media(max-width:1100px){.risks-page .form-grid{grid-template-columns:1fr}.risks-page .span-2,.risks-page .span-3{grid-column:auto}}
